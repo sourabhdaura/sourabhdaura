@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sourabhdaura
-- 👀 I’m interested in Software Developer
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning New Software Languages
 - 💞️ I’m looking to collaborate on Various Projects
 - 📫 How to reach me sourabh.daura@gmail.com
